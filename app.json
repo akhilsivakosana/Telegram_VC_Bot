@@ -1,0 +1,15 @@
+{
+    "name":"LemonJamsBot",
+    "description":"An example bot using tgcallsjs",
+    "env":{
+        "BOT_TOKEN":{
+            "description":"Bot token from @botfather",
+            "value":"1555063061:AAG_LVymSrb0xhc_0cFuq2kyX_UlwRO2-Yk"
+        },
+        "WEBSOCKET_URL":{
+            "description":"websocket url from https://github.com/CW4RR10R/LemonJamServer",
+            "value": "https://tcltestmusic.herokuapp.com"
+        }
+    },
+    "stack":"container"
+}
